@@ -47,7 +47,7 @@ This dashboard simulates a compliance monitoring system using synthetic transact
 ![Sheet 3](assets/sheet3_trend.png)
 
 ### 🔹 Complete Dashboard
-![Dashboard](assets/dashboard_full.png)
+![Dashboard](assets/Dashboard_full.png)
 
 ---
 
